@@ -3,8 +3,7 @@ import pytest
 
 
 class Test_Credit_Card_Validator:
-    """Test suite for username_validator function"""
-
+    
     # ===== POSITIVE CASES (should return True) =====
 
     def test_visa_starts_with_4(self):
