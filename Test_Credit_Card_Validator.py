@@ -1,15 +1,8 @@
-"""
-Brief Pytest Template
-Example: Username Validator
-Use this as a reference for writing your credit_card_validator tests.
-"""
 
 import pytest
 
 
 class TestUsernameValidator:
-    """Test suite for username_validator function"""
-
     # ===== POSITIVE CASES (should return True) =====
     
     def test_valid_username_basic(self):
